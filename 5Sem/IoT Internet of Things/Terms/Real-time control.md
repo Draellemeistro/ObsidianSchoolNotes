@@ -1,0 +1,11 @@
+### used alot in [[IIoT]] ([[Industrial IoT]])
+- Deterministic sensing-control-actuation cycles
+- Easy to deal with in terms of scheduling
+	- Static scheduling
+- Isochronous communications
+	- All devices have to be tightly synchronized
+		- i.e., should have the same absolute time references
+- Extreme reliability-latency requirements
+	- Short cycle times - 1 ms
+		- communication latency 0.1 ms
+		- reliability $1-10^{-6}$

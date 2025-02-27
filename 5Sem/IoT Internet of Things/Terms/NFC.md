@@ -1,0 +1,1 @@
+[[NFC]] is a really low-power protocol: it even runs without any energy storage

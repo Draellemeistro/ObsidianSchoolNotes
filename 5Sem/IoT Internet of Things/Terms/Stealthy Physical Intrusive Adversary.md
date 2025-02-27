@@ -1,0 +1,1 @@
+can capture the device and attempt to physically extract any secret information

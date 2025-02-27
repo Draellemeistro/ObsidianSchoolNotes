@@ -1,0 +1,25 @@
+Control plane(Kube Controller Manager. Kube-Scheduler. ETCD Cluster. Kube- APIserver). Worker nodes(Kubelet, Runtime, Kube-proxy). Pods. Deployments. Services.
+
+- The app executes code.
+- Container wraps the app and provides dependencies.
+- Pod wraps container so it can run on Kubernetes.
+- Deployment wraps the pod and adds control features(self-heal, scaling etc.)
+- **[[Pods]]:** allow [[Containers]] and other workloads to run on [[Kubernetes]].
+- **[[Deployments]]:** add self-healing, scaling, and rollouts.
+- **[[Services]]:** add reliable networking and basic [[Load balancing]].
+- [[Kubernetes Architecture]]
+  - [[Control Plane]]
+    - [[KubeAPI]] server
+    - [[Cloud-Control-Manager]]
+    - [[Kube-scheduler]]
+    - [[Kube-controllers]] & [[Kube-Controller-manager]]
+    - [[Kube-scheduler]]
+    - [[Cluster-Store]] & ??? [[ETCD]]
+  - [[Worker Nodes]]
+    - [[Kubelet]]
+    - [[Runtime]]
+    - [[kube-proxy]]
+  - [[Pods]]
+    - [[Pod-IP Churn]]
+  - [[Deployments]]
+  - [[Services]]

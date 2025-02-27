@@ -1,0 +1,8 @@
+- **limited functionality:** 
+	- Limited processing power, lack of software updates
+	- Driven by the target to achieve extremely low cost
+- **Stringent requirements on [[Duty cycle and Battery energy|energy consumption]] (see [[IoT device-Power Consumption]] also)**
+	- Battery may not be rechargeable, while operational time should be more than 10 yrs (example)
+- **Embedded devices**
+	- Often inaccessible and irreparable, such as in buildings or cars
+	- Should be deployed by projecting long-term future use

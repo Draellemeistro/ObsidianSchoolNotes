@@ -1,0 +1,4 @@
+- It is standardly assumed that reporting is push-based [[Push-based reporting]]
+	- i.e., the devices themselves initiate reporting
+- However, it may also happen that the devices are queried for the readings
+	- Pull-based (on-demand) reporting [[Pull-based reporting]]

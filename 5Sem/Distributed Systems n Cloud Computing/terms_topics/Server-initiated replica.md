@@ -1,0 +1,1 @@
+Process that can dynamically host a replica on request of another server in the data store.

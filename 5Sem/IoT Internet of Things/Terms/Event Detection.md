@@ -1,0 +1,9 @@
+- Typical purpose is to alarm the user about some event
+- Devices continuously observe the environment
+- Reporting is performed only if the value(s) of the observed parameter(s) cross predefined threshold
+	- e.g., data is generated only upon detection of some prespecified event
+- high reliability requirement
+- **examples:**
+	- temperature becomes too high
+	- Concentration of some gasses becomes too high
+	- Detection of a movement

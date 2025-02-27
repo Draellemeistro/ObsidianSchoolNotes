@@ -1,0 +1,1 @@
+## Elaborate operations [[IEEE 802.15.4]] multiple access protocol in star topology.

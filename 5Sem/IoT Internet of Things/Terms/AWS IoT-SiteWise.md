@@ -1,0 +1,1 @@
+Collect and analyze industrial Data at scale and make better, data-driven decisions.

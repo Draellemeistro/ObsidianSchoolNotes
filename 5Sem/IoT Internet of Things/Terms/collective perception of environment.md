@@ -1,0 +1,1 @@
+![[image_collective perception of environment.png]]

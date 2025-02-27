@@ -1,0 +1,4 @@
+- **The next step(from [[Cluster Computing]]):** plenty of nodes from everywhere
+	- **heterogenous**
+	- Dispersed across several organizations
+	- Can easily span a wide-area network

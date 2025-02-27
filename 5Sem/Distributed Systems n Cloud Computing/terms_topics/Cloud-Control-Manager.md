@@ -1,0 +1,1 @@
+Integrates with public cloud services (e.g., AWS, Azure, GCP). manages cloud resources like load balancers and storage based on app requests.

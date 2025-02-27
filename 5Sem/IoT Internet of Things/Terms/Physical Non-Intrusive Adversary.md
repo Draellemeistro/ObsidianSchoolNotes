@@ -1,0 +1,1 @@
+is physically even closer to the device, so as to be capable of mounting side-channel attacks.

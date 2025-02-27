@@ -1,0 +1,1 @@
+## Explain [[Publish-Subscribe Architectures|Pub-Sub]] model;

@@ -1,0 +1,17 @@
+- **[[ZigBee Device Object (ZDO)]]:** 
+	- **offers functions common to all applications**
+	- Configuration of a device to operate as:
+		- [[ZC(ZigBee-Coordinator)]]
+		- [[ZR(Zigbee-Router)]]
+		- [[ZED(ZigBee-End-Device)]]
+### [[ZigBee]] application layer (see [[ZigBee-Application Layer|ZigAppLay]]) consists of:
+- [[Application Support Sublayer (APS)]]
+	- the interface between the application and network
+- **[[ZigBee Device Object (ZDO)]]:** 
+	- **offers functions common to all applications**
+	- Configuration of a device to operate as:
+		- [[ZC(ZigBee-Coordinator)]]
+		- [[ZR(Zigbee-Router)]]
+		- [[ZED(ZigBee-End-Device)]]
+- **Application framework:** 
+	- hosts application objects

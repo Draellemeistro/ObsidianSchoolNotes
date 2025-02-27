@@ -1,0 +1,1 @@
+Main [[Kubernetes]] agent on the [[Worker Nodes]]. Watches the [[KubeAPI|API server]] for new tasks; instructs the runtime to execute tasks; reports task status to the  [[KubeAPI|API server]]. If a task fails, the kubelet informs the [[KubeAPI|API server]], allowing the [[Control Plane]] to decide corrective actions.

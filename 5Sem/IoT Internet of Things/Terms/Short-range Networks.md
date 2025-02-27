@@ -1,0 +1,3 @@
+- [[Personal Area Networks]] (PAN)
+	- [[ZigBee]], [[BLE]]
+	- [[Body Area Networks]] (BAN)

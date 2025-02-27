@@ -1,0 +1,1 @@
+## Explain the differences between the reservation (grant) based access and the reservation (grant) free access

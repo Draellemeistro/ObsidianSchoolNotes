@@ -1,0 +1,1 @@
+is sufficiently near the device to be capable of eavesdropping on, and interfering with, the device’s communication.

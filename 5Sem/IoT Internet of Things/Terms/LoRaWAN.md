@@ -1,0 +1,1 @@
+[[SigFox]] and [[LoRaWAN]] are considered extremely long range and extremely low-power protocols.

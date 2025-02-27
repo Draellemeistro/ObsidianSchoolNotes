@@ -1,0 +1,4 @@
+- One example of a real-life cyber attack that impacted **[[MQTT]]** was the 2021 [[VERKADA incident|VERKADA hack]]
+- Verkada is a security camera company that uses [[MQTT]] to communicate between devices and its cloud-based management platform.
+- In this attack, hackers gained access to Verkada's super-admin account and were able to access live video feeds from thousands of cameras in various locations including prisons, hospitals, and schools.
+- affected over 150,000 security cameras, including those used by hospitals, schools, prisons, and companies. The hackers gained access to live camera feeds and archived video footage, raising serious concerns about privacy and security.
