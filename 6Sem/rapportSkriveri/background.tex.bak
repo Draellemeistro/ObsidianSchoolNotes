@@ -1,0 +1,38 @@
+%\chapter{Background}\label{ch:bg}
+\section{background}
+This chapter provides an introductory overview of IAM, as well as the concepts and principles that are relevant to the topic of this paper. Key concepts in access control, and relevant security principles are introduced in order to provide a foundation for later chapters to expand upon.
+
+\subsection{Defining Identity}
+Seeing as the topic of this paper is Identity Access Management, it is important to first define what an identity is. In the context of cybersecurity, an identity is a set of attributes that uniquely describe a subject, such as a user or a device. These attributes can be used to identify and authenticate the subject, and to determine what resources the subject has access to\citep{Gartner-DefIAM}.
+
+\subsection{IAM: Identity Access Management}
+The main goal of Identity Access Management, or IAM, is to provide a framework for managing roles and access to different services for groups of users\citep{Gartner-DefIAM}. It builds on the idea that users should only have access to the tools and assets that they need, while restricting access to superfluous services, so as to combat abuse of privileges.
+
+Originally Identity and Access management was primarily focused on physical security, such as restricting access to facilities with the use of ID badges. With tendencies moving towards many services, assets etc. being remotely accessible by employees, the traditional ways of structuring and managing access-privileges slowly evolved and moved into the realm of cybersecurity\citep{StrongDM-IAM}. 
+
+Hybrid work has become an increasingly common method of work, recently illustrated by the work-from-home movement, which grew to prominence in the fallout of the CoVID epidemic. As such, systems and tools for controlling privileges grew in complexity. Identity Access Management is one of those concepts.
+
+IAM frameworks consists of a set of tools to administer identities and access privileges, as well as rules and policies on how users should interact with the systems. The responsibility of IAM therefore consists of creating, updating and deleting of user credentials, in addition to deciding which users has access to which assets or processes\citep{IAM-ComprehensiveStudy}. As evident by its given name, it is composed of two components: Identity Management and Access Management.
+
+%.........
+%https://www.citrix.com/blogs/2022/01/10/iam-vs-pam-how-are-they-different/
+
+\subsubsection{IGA: Identity Governance and Administration}
+IGA aims to strengthen administrators' abilities to manage user identities and access privileges. It provides the tools to help ensure that IAM policies are upheld\citep{StrongDM-IGAvsPAM,CoreSec-DiffIAMIGAPAM}. This is done primarily by providing the ability to automate the different areas of user-, role- and access- management. Its focus is therefore on the more general governance of user access, and ensuring the organization maintains compliance.
+
+\subsubsection{PAM: Privileged Access Management}
+Privileged Access Management, as the name suggests, has a narrower focus than IGA. Here, the goal is to defend the more sensitive parts of the operation\citep{StrongDM-IGAvsPAM,CoreSec-DiffIAMIGAPAM}. This is done by providing extra layers of security around more privileged accounts in order to keep critical systems from being altered by bad actors with elevated permissions. 
+
+% 
+%\subsubsection{Other tools and systems under IAM}
+%\subsubsection{IAM standards and frameworks?}
+\paragraph{SSO: Single Sign On} ss
+
+\subsection{Access Control Principles}
+\subsubsection{Zero Trust Security}
+\subsubsection{PoLP: Principle of Least Privilege}
+Principle of Least Privilege, or PoLP, becomes especially important for keeping the potential for data breaches at a minimum. The principle describes the notion that users and processes should only have the exact set of privileges necessary to fulfill their functions, no more than that\citep{OGDef-PoLP}. Following PoLP will limit the potential adverse effects caused by accidents, errors or misuse. The authors compared it to the military principle of keeping things on a \textit{"need-to-know basis"}\citep{OGDef-PoLP}. 
+\subsubsection{SoD: Separation of Duties}
+\subsubsection{Just-In-Time (JIT) Access}
+
+% Role-based access control (RBAC) 1 is the most popular access control model at present, and is widely used as an alternative to the traditional discretionary access control (DAC) and the mandatory access control (MAC) in enterprise security management products. -KOPIERET- ABAC vs RBAC

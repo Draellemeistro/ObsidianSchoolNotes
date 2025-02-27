@@ -1,0 +1,95 @@
+\section{State of art}
+
+\subsection{Omada}
+Omada is a company that provides a modern identity governance and administration (IGA) solution \citep{omada}. The solution is provided as a on-premise, hybrid or cloud service. These solutions are provided as different products, called omada identity for on-premise and Omada identity cloud for the cloud solution \citep{omada}.
+
+\subsubsection{Omada identity}
+Omada identity provides intelligent compliance, through detailed insights about systems and protected data, with visual reporting showing a compliance level for a given system or application \citep{omada}. The reporting provides an executive remediation for critical finding, with a single click \citep{omada}.
+
+Security and Risk is provided through the management of identities, that mitigates security risks by giving visibility to environments, with audit and compliance reporting. You can govern all identity types form, privilged users, employess, contractors, busiess partners, customers, devices and machin identities \citep{omada}.
+
+Omada provides workfoce enablement by ensuring employees have the correct access when they start at the company. It supports approval and delegation of access based management through organizational context \citep{omada}.
+
+Omada handles identity lifecycle management through joiner, mover and leaver (BURDE DER VÆRE EN FORKLARELSE PÅ HVAD DETTE ER?) procesess for all identity types as depicted on figure \ref{lifecycle management} below.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{Images/STATEOFART/lifecycle.png}
+	\caption{Identity lifecycle management \citep{omada}. }
+	\label{lifecycle management}
+\end{figure}
+
+Omada identity offers unique action handlers, custom provision connector, for companies specific needs \citep{omada}. With support for manual, triggered and scheduled workflows.
+
+Omada identity comes with a "compliance workbench", this workbench shows customized reporting about systems, applications and identities accesses \citep{omada}. In the compliance workbench you can send access reviews to both managers of identities and owners of the specific application accesses (resource owners) \citep{omada}.
+
+\subsubsection{Omada identity cloud}
+Omada identity cloud comes as a IGA-as-a-service platform \citep{omada}. Omada identity cloud comes with the same built in features as Omada identity, but also includes new analytical tools with machine learning to provide understanding of user behavior and access patterns \citep{omada}. One of these features is Omada cloud's role mining. This is an AI-powered feature that analyzes access patterns to suggest new roles reflecting user behavior \citep{omadaRolemining}.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{Images/STATEOFART/Omada-Rolemining.png}
+	\caption{analytical view of role mining on Omada Identity Cloud \citep{omadaRolemining}. }
+	\label{OmadaRolemining}
+\end{figure}
+
+As depicted on figure \ref{OmadaRolemining} the role mining feature analyzes every access there is in an access group. An access group is a group of accesses/roles that are bundled together, in this way you can get access to multiple applications by only have one access group. The feature analyzes each role in the group and gives it a relevance score, percentage of identities with resources in scope and percentage of all identities that are not in scope \citep{omadaRolemining}.
+
+\subsection{Nexis analytics}
+
+\subsection{Entra ID}
+
+\subsection{Approaches to Access Control}
+\subsubsection{Different Models}
+Access Control Models are the frameworks that dictate how access control is implemented in a system. They specify the rules for how permissions are granted and under what conditions, as well as how they are enforced. There are several different models, each centered around different perspectives, With some sources listing the main ones as:\citep{RountreeDerrick2010SfMW}
+\begin{itemize}
+	\item Mandatory Access Control (\textbf{MAC})
+	\item Discretionary Access Control (\textbf{DAC})
+	\item Role-Based Access Control (\textbf{RBAC})
+\end{itemize}
+Though, a fourth model is also often discussed in more recent literature, especially in relation to the predominant model in practice, RBAC\citep{addABACtoRBAC2010, ABACandRBAC2013}.
+\begin{itemize}
+	\item Attribute-Based Access Control (\textbf{ABAC})
+\end{itemize}
+Each model has its own strengths and weaknesses. As such, organizations can choose to implement one model, for simplicity, or use several models in conjunction, choosing whichever model best fits specific systems or assets.
+
+\paragraph{MAC: Mandatory Access Control}
+In Mandatory Access Control, the control of access privileges is centralized under the administrator. They have sole right to configure what the users have access to. This therefore requires that the administrator sets all access rights, leading to them also being the sole party responsible for ensuring the access control systems works properly.
+
+\paragraph{DAC: Discretionary Access Control}
+Discretionary Access Control is the more traditional approach to managing access rights. The owner of the resource administers who has the rights to access it and to what extent that access allows them to do. This is how access to files on a PC between different users is generally managed.
+
+\paragraph{RBAC: Role-Based Access Control}
+Many large organizations implement Role-based Access Control in one aspect or another\citep{RoleEngMethStd}, doubly so for systems primarily angled at services\citep{FormNormRBAC2009}. Roles serve to represent different job functions, acting as a connection between the user and the permissions they need to fulfill their role. It groups users into roles in order to reduce the number of permissions that need to be managed, and simplify the complexity of the system.
+
+\paragraph{ABAC: Attribute-Based Access Control}
+
+\subsubsection{The Role-Based Approach}
+The addition of roles allows for more fine-grained control of access, but also adds complexity to the system. If the roles have not already been defined, the process of defining them can become a sizable time investment that rapidly increases along the size of the organization\citep{FormNormRBAC2009}. Beyond that, the concept of roles, and their implementation, has not been standardized, though there have been standards published by ISO\citep{ISO27001} and INCITS\citep{INCITS3592012}. This has lead to a variety of implementations and interpretations of the concept and its accompanying mechanisms\citep{RolesInInfoSec2011}.
+
+Research suggests access control systems could find improvements by combining the Role-Based Access Control (RBAC) model with features from the Attribute-Based Access Control (ABAC) model\citep{addABACtoRBAC2010}.
+
+% \citep{ABACandRBAC2013} -> https://ieeexplore-ieee-org.zorac.aub.aau.dk/document/6519249
+% \citep{addABACtoRBAC2010} -> https://ieeexplore-ieee-org.zorac.aub.aau.dk/document/5481941
+% Til lige at forstå https://medium.com/@tahirbalarabe2/who-are-you-and-what-are-you-allowed-to-do-13762a009ef0
+\subsection{Role Engineering}
+The problem of defining the roles in a system, has lead to the establishment of the Role Engineering field\citep{RoleEngMethStd}. Role Engineering entails the process of defining roles, and their respective sets of permissions, in a system. This process can be done in a variety of ways, and different methodologies exist\citep{RoleEngMethStd}.
+\begin{itemize}
+	\item Top-down approach
+	\item Bottom-up approach
+	\item Hybrid
+\end{itemize}
+%kig på den her https://ieeexplore.ieee.org/abstract/document/8129806
+
+Traditionally, Role Engineering has been done manually, in a top-down manner, which IS BAD AND TIME CONSUMING. Those pains lead to reasearch into automating the process from a bottom-up perspective, using data mining techniques. This data mining approach is called RoleMining.
+
+% Traditionally,  Role Engineering has been done manually, but research has been done into automating the process\citep{RoleMining2005}. This has lead to the development of Role Mining, a process that uses data mining techniques to analyze the access logs of a system, and from that data, infer the roles that exist in the system\citep{RoleMining2005}. This process can be done in a variety of ways, and different methodologies exist\citep{RoleMining2005}.
+
+\subsection{Role Mining}
+@article{RBACEcon2010,
+	title={2010 economic analysis of role-based access control},
+	author={O’Connor, Alan C and Loomis, Ross J},
+	journal={NIST, Gaithersburg, MD},
+	volume={20899},
+	year={2010}
+}

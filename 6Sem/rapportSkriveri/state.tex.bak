@@ -1,0 +1,114 @@
+\section{State of art}
+
+\subsection{Omada}
+Omada is a company that provides a modern identity governance and administration (IGA) solution \citep{omada}. The solution is provided as a on-premise, hybrid or cloud service. These solutions are provided as different products, called omada identity for on-premise and Omada identity cloud for the cloud solution \citep{omada}.
+
+\subsubsection{Omada identity}
+Omada identity provides intelligent compliance, through detailed insights about systems and protected data, with visual reporting showing a compliance level for a given system or application \citep{omada}. The reporting provides an executive remediation for critical finding, with a single click \citep{omada}.
+
+Security and Risk is provided through the management of identities, that mitigates security risks by giving visibility to environments, with audit and compliance reporting. You can govern all identity types form, privilged users, employess, contractors, busiess partners, customers, devices and machin identities \citep{omada}.
+
+Omada provides workfoce enablement by ensuring employees have the correct access when they start at the company. It supports approval and delegation of access based management through organizational context \citep{omada}.
+
+Omada handles identity lifecycle management through joiner, mover and leaver (BURDE DER VÆRE EN FORKLARELSE PÅ HVAD DETTE ER?) procesess for all identity types as depicted on figure \ref{lifecycle management} below.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{Images/STATEOFART/lifecycle.png}
+	\caption{Identity lifecycle management \citep{omada}. }
+	\label{lifecycle management}
+\end{figure}
+
+Omada identity offers unique action handlers, custom provision connector, for companies specific needs \citep{omada}. With support for manual, triggered and scheduled workflows.
+
+Omada identity comes with a "compliance workbench", this workbench shows customized reporting about systems, applications and identities accesses \citep{omada}. In the compliance workbench you can send access reviews to both managers of identities and owners of the specific application accesses (resource owners) \citep{omada}.
+
+\subsubsection{Omada identity cloud}
+Omada identity cloud comes as a IGA-as-a-service platform \citep{omada}. Omada identity cloud comes with the same built in features as Omada identity, but also includes new analytical tools with machine learning to provide understanding of user behavior and access patterns \citep{omada}. One of these features is Omada cloud's role mining. This is an AI-powered feature that analyzes access patterns to suggest new roles reflecting user behavior \citep{omadaRolemining}.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\linewidth]{Images/STATEOFART/Omada-Rolemining.png}
+	\caption{analytical view of role mining on Omada Identity Cloud \citep{omadaRolemining}. }
+	\label{OmadaRolemining}
+\end{figure}
+
+As depicted on figure \ref{OmadaRolemining} the role mining feature analyzes every access there is in an access group. An access group is a group of accesses/roles that are bundled together, in this way you can get access to multiple applications by only have one access group. The feature analyzes each role in the group and gives it a relevance score, percentage of identities with resources in scope and percentage of all identities that are not in scope \citep{omadaRolemining}.
+
+\subsection{Nexis analytics}
+
+\subsection{Entra ID}
+
+
+\subsection{Complexity in Role-Based Approaches}
+The addition of roles allows for more fine-grained control of access, but also adds complexity to the system. If the roles have not already been defined, the process of defining them can become a sizable time investment that rapidly increases along the size of the organization\citep{FormNormRBAC2009}. Beyond that, the concept of roles, and their implementation, has not been standardized, though there have been standards published by ISO\citep{ISO27001} and INCITS\citep{INCITS3592012}. This has lead to a variety of implementations and interpretations of the concept and its accompanying mechanisms\citep{RolesInInfoSec2011}.
+%ANSI , American National Standard for Information Technology — Role Based Access Control , 2004 (pg. 359 -2004 ) ANSI INCITS
+Some research suggests access control systems could find improvements by combining the Role-Based Access Control (RBAC) model with features from the Attribute-Based Access Control (ABAC) model\citep{addABACRtoBAC2010}.
+% This could allow for more flexibility in the access control system, as the ABAC model allows for the use of attributes in the access control decisions, which could be used to define roles in a more dynamic way\citep{ABACRBAC2010}.
+
+\subsubsection{Role Engineering}
+The problem of defining the roles in a system, has lead to the establishment of the Role Engineering field\citep{RoleEngMethStd}. Role Engineering entails the process of defining roles, and their respective sets of permissions, in a system. This process can be done in a variety of ways, and different methodologies exist\citep{RoleEngMethStd}.
+\begin{itemize}
+	\item Top-down approach
+	\item Bottom-up approach
+	\item Hybrid
+\end{itemize}
+%kig på den her https://ieeexplore.ieee.org/abstract/document/8129806
+\subsubsection{Role Mining}
+% https://backend.orbit.dtu.dk/ws/files/110657322/IARBAC_DBSec.pdf
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ------------------------------- %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+@ARTICLE{addABACRtoBAC2010,
+	author={Kuhn, D. Richard and Coyne, Edward J. and Weil, Timothy R.},
+	journal={Computer},
+	title={Adding Attributes to Role-Based Access Control},
+	year={2010},
+	volume={43},
+	number={6},
+	pages={79-81},
+	keywords={Access control;Merging;Role-based access control;Dynamic roles;Adding and managing attributes;Controlling permissions;attribute based access control},
+	doi={10.1109/MC.2010.155}}
+
+@ARTICLE{ABACandRBAC2013,
+	author={Coyne, Ed and Weil, Timothy R.},
+	journal={IT Professional},
+	title={ABAC and RBAC: Scalable, Flexible, and Auditable Access Management},
+	year={2013},
+	volume={15},
+	number={3},
+	pages={14-16},
+	keywords={Information technology;Network architecture;Access controls;Network security;attribute-based access control;ABAC;role-based access control;RBAC;attribute-centric access control;role-centric access control;security;information technology},
+	doi={10.1109/MITP.2013.37}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ------------------------------- %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% ABAC and RBAC: Scalable, Flexible, and Auditable Access Management
+% https://ieeexplore-ieee-org.zorac.aub.aau.dk/document/6519249
+
+% Attributes Enhanced Role-Based Access Control Model
+% https://backend.orbit.dtu.dk/ws/files/110988163/AERBAC_TrustBus_20150618_.pdf
+
+% https://csrc.nist.gov/projects/role-based-access-control#rbac-standard
+% VIRKELIGT GODT LINK FRA NIST ^^^^
+
+% https://www.sciencedirect.com/science/article/abs/pii/S016740481100099X
+
+% https://csrc.nist.gov/projects/role-based-access-control#rbac-standard
+% https://kbdk-aub.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_skillsoft_books24x7_bks00040137&context=PC&vid=45KBDK_AUB:AUB&lang=da&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,Security%20for%20Microsoft%20Windows%20System%20Administrators&offset=0
+
+% https://www.researchgate.net/publication/3438037_A_Critique_of_the_ANSI_Standard_on_Role-Based_Access_Control
+@article{article,
+	author = {Li, Ninghui and Byun, Ji-Won and Bertino, Elisa},
+	year = {2007},
+	month = {12},
+	pages = {41 - 49},
+	title = {A Critique of the ANSI Standard on Role-Based Access Control},
+	volume = {5},
+	journal = {Security & Privacy, IEEE},
+	doi = {10.1109/MSP.2007.158}
+}

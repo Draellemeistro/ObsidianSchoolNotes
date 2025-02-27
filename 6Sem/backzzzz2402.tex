@@ -1,0 +1,92 @@
+%\chapter{Background}\label{ch:bg}
+\section{background}
+This chapter provides an introductory overview of IAM, as well as the concepts and principles that are relevant to the topic of this paper. Key concepts in access control, and relevant security principles are introduced in order to provide a foundation for later chapters to expand upon.
+
+
+\subsection{IAM: Identity Access Management}
+The main goal of Identity Access Management, or IAM, is to provide a framework for managing roles and access to different services for groups of users\citep{Gartner-DefIAM}. It builds on the idea that users should only have access to the tools and assets that they need, while restricting access to superfluous services, so as to combat abuse of privileges.
+
+Originally Identity and Access management was primarily focused on physical security, such as restricting access to facilities with the use of ID badges. With tendencies moving towards many services, assets etc. being remotely accessible by employees, the traditional ways of structuring and managing access-privileges slowly evolved and moved into the realm of cybersecurity\citep{StrongDM-IAM}.
+
+Hybrid work has become an increasingly common method of work, recently illustrated by the work-from-home movement, which grew to prominence in the fallout of the CoVID epidemic. As such, systems and tools for controlling privileges grew in complexity. Identity Access Management is one of those concepts.
+
+IAM frameworks consists of a set of tools to administer identities and access privileges, as well as rules and policies on how users should interact with the systems. The responsibility of IAM therefore consists of creating, updating and deleting of user credentials, in addition to deciding which users has access to which assets or processes\citep{IAM-ComprehensiveStudy}. As evident by its given name, it is composed of two components: Identity Management and Access Management.
+
+\subsubsection{IGA: Identity Governance and Administration}
+IGA aims to strengthen administrators' abilities to manage user identities and access privileges. It provides the tools to help ensure that IAM policies are upheld\citep{StrongDM-IGAvsPAM,CoreSec-DiffIAMIGAPAM}. This is done primarily by providing the ability to automate the different areas of user-, role- and access- management. Its focus is therefore on the more general governance of user access, and ensuring the organization maintains compliance.
+
+\subsubsection{PAM: Privileged Access Management}
+Privileged Access Management, as the name suggests, has a narrower focus than IGA. Here, the goal is to defend the more sensitive parts of the operation\citep{StrongDM-IGAvsPAM,CoreSec-DiffIAMIGAPAM}. This is done by providing extra layers of security around more privileged accounts in order to keep critical systems from being altered by bad actors with elevated permissions.
+%\paragraph{PASM: Privileged Account and Session Management} %\paragraph{PEDM: Privilege Elevation and Delegation Management}
+\subsubsection{IAM Mechanism, Standards and Frameworks?}
+\paragraph{SSO: Single Sign On}
+\subsection{Concepts relevant to IAM}
+\subsubsection{Security Principles}
+\paragraph{Zero Trust Security}
+\paragraph{PoLP: Principle of Least Privilege}
+The Principle of Least Privilege, or PoLP, becomes especially important for keeping the potential for data breaches at a minimum. The principle describes the notion that users and processes should only have the exact set of privileges necessary to fulfill their functions, no more than that\citep{OGDef-PoLP}. Following PoLP will limit the potential adverse effects caused by accidents, errors or misuse. The authors compared it to the military principle of keeping things on a \textit{"need-to-know basis"}\citep{OGDef-PoLP}.
+\paragraph{SoD: Separation of Duties}
+\paragraph{Just-In-Time (JIT) Access}
+
+\subsubsection{Identity and Access}
+\paragraph{Identity}
+In the context of cybersecurity, an identity is a set of attributes that uniquely describe an entity, such as a user or a device. These attributes can be used to identify and authenticate the subject, and to implement Access Control mechanisms regarding what resources the subject is authorized to access\citep{Gartner-DefIAM}. This directly feeds into the concept of Access Control, the other main pillar of IAM.
+\paragraph{Access Control}
+Besides it's application in IAM, access control is in general also a fundamental concept in cybersecurity. Access control is the practice of restricting, or controlling, access to resources, such as systems, applications, data, and physical locations, to authorized users. The goal of access control is to ensure that only the right people have access to the right resources, at the right time, and for the right reasons\citep{Gartner-DefIAM}.
+
+\subsubsection{Access Control Models}
+Access Control Models are the frameworks that dictate how access control is implemented in a system. They specify the rules for how permissions are granted and under what conditions, as well as how they are enforced. There are several different models, each centered around different perspectives, With the three main ones being:\citep{RountreeDerrick2010SfMW}
+
+\begin{itemize}
+	\item Mandatory Access Control (\textbf{MAC})
+	\item Discretionary Access Control (\textbf{DAC})
+	\item Role-Based Access Control (\textbf{RBAC})
+\end{itemize}
+
+Each model has its own strengths and weaknesses. As such, organizations can choose to implement one model, for simplicity, or use several models in conjunction, choosing whichever model best fits specific systems or assets.
+
+\paragraph{MAC: Mandatory Access Control}
+In Mandatory Access Control, the control of access privileges is centralized under the administrator. They have sole right to configure what the users have access to. This therefore requires that the administrator sets all access rights, leading to them also being the sole party responsible for ensuring the access control systems works properly.
+
+\paragraph{DAC: Discretionary Access Control}
+Discretionary Access Control is the more traditional approach to managing access rights. The owner of the resource administers who has the rights to access it and to what extent that access allows them to do. This is how access to files on a PC between different users is generally managed.
+
+\paragraph{RBAC: Role-Based Access Control}
+Many large organizations implement Role-based Access Control in one aspect or another\citep{RoleEngMethStd}, doubly so for systems primarily angled at services\citep{FormNormRBAC2009}. Roles serve to represent different job functions, acting as a connection between the user and the permissions they need to fulfill their role. It groups users into roles in order to reduce the number of permissions that need to be managed, and simplify the complexity of the system.
+
+
+\subsection{Technical debt}
+Technical debt is the consequence of choosing quick and cheap technology solutions over robust and efficient ones, this can be related to time constraints, budget limitations and just pure lack of future needs \citep{TechinicalDebtOUTsystem}.Technical debt could also just be a product of time, by not overhauling systems and keeping old ones.
+
+Technical debt can have damaging effects on a company's enterprise operations. Technical debt can cause ineffectiveness, reduced productivity, increased maintenance costs, system failures and security vulnerabilities \citep{TechinicalDebtOUTsystem}.
+
+There are different types of technical debt, that come with their own causes and consequences.
+
+\begin{enumerate}
+	\item Code debt: Code debt are issues coming from the codebase itself.  These issues stems from poor coding practices, lack of standardization, inadequate code comments and outdated coding techniques.
+	\item Design debt: This stems from flawed of outdated software architecture or design. Examples of this could be overly complex designs or lack of modularity.
+	\item Documentation debt: Insufficient or outdated documentation.
+	\item Testing debt: When there is a lack of testing where different systems have not been tested thoroughly enough.
+	\item Infrastructure debt: Is everything from outdated severs, inadequate deployment practices or the absence of disaster recovery plans.
+	\item Technical skills debt: This is when a team or people lack skills or knowledge, leading to suboptimal solutions.
+	\item Dependency debt: When software relies on outdated or unsupported third party libraries.
+	\item Process debt: Relates to inefficient or outdated development processes and methods.
+	\item Service/versioning debt: Services or components are not properly versioned and legacy systems are utilized without adequate support or integration capabilities.
+\end{enumerate}
+
+Every type of technical debt has their own challenges and solutions\citep{TechinicalDebtOUTsystem}
+\subsection{Compliance}
+The definition of compliance is the action or fact of complying with a wish or command. This could be a company that complies with applicable rules and laws \citep{2024compliance?}. Compliance can have two definitions, since it can be something that a company is doing and something a company can become \citep{legaldeskcompliance}. A company becomes compliant when it meets the requirements of the different laws, and it does this by setting clear guidelines on how compliance can be reached \citep{legaldeskcompliance}. Compliance is not set when a company reaches compliance, often new legal requirements are published, that companies have to meet the requirements of.
+
+Depending on the size of a company, and business area, different guidelines and legal requirements are relevant \cite{2024compliance?}. An example of this would be a company which operates internationally. These companies have to comply with the laws and regulations in which they operate \citep{2024compliance?}. Another example would be that financial institutions in Europe have to abide by the EU regulation called Digital Operational Resilience Act (DORA) \citep{Dora}.
+
+
+\subsubsection{European legislation related to IAM}
+The European Union's general data protection regulation (GDPR), was created to give consumers greater control over their information they share with companies \citep{IAM-gdpr:}. If an organization collects the data of a costumer, they have to comply with GDPR. One of the applications of GDPR is that companies have to make sure, that the right people have access to data. Which means that it is only if employees cannot fulfill their work function, without access to consumer data, that they have to be able to access it. This initiative requires effective and reliable identity and access management, and a platform that would be able to show compliance of access rights \citep{IAM-gdpr:}
+
+As mentioned previously the digital operational resilience act (DORA) is an EU regulation aimed at financial institutions \citep{DoraIAM:}. The goal of DORA is to have financial institutions be able to provide their services consistently even in the event of a cyber attack \citep{DoraIAM:}. DORA covers everything from Risk management, ICT incident reporting, stress testing, management of risks posed by third party ICt providers, and sharing information withing the sector \citep{Dora}. To be able to comply with DORA it requires an effective risk management strategy. IAM can help with this by monitoring and evaluating access rights, to ensure management of a company's IT risk. DORA wants companies to have digital resilience of their service providers and have the same standards for their internal company systems. IAM can help companies control and monitor third-party acess to systems and data \citep{DoraIAM:}.
+
+
+
+
+AFSLUTNING PÅ AFSNIT HER -----

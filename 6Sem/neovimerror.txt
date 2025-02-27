@@ -1,0 +1,13 @@
+Error executing vim.schedule lua callback: ...render-markdown.nvim/lua/render-markdown/render/base.lua:41: attempt to call method 'add_start' (a nil value)
+stack traceback:
+	...render-markdown.nvim/lua/render-markdown/render/base.lua:41: in function 'sign'
+	...der-markdown.nvim/lua/render-markdown/render/heading.lua:96: in function 'render'
+	...r-markdown.nvim/lua/render-markdown/handler/markdown.lua:76: in function 'callback'
+	...ender-markdown.nvim/lua/render-markdown/core/context.lua:214: in function 'callback'
+	...ender-markdown.nvim/lua/render-markdown/core/context.lua:223: in function 'for_each'
+	...ender-markdown.nvim/lua/render-markdown/core/context.lua:209: in function 'query'
+	...r-markdown.nvim/lua/render-markdown/handler/markdown.lua:71: in function 'parse'
+	...azy/render-markdown.nvim/lua/render-markdown/core/ui.lua:226: in function 'parse_tree'
+	...azy/render-markdown.nvim/lua/render-markdown/core/ui.lua:197: in function 'parse_buffer'
+	...azy/render-markdown.nvim/lua/render-markdown/core/ui.lua:126: in function 'run_update'
+	...azy/render-markdown.nvim/lua/render-markdown/core/ui.lua:90: in function <...azy/render-markdown.nvim/lua/render-markdown/core/ui.lua:89>

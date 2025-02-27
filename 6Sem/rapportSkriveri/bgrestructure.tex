@@ -1,0 +1,75 @@
+
+\chapter{Background}\label{ch:bg}
+
+\section{Introduction}
+This chapter provides an introductory overview of Identity and Access Management (IAM), outlining key concepts in access control, relevant security principles, and compliance considerations. A structured understanding of IAM is essential for managing identities, securing access to systems, and ensuring regulatory compliance.
+
+\section{Fundamentals of Identity and Access Management (IAM)}
+
+\subsection{Defining Identity}
+Identity in cybersecurity is a set of attributes that uniquely describe a subject, such as a user or a device. These attributes enable authentication and authorization, determining access rights to resources\citep{Gartner-DefIAM}.
+
+\subsection{IAM Overview}
+IAM provides a framework for managing user roles and access to services\citep{Gartner-DefIAM}. It ensures that users have access only to necessary tools and assets while restricting access to superfluous services to prevent privilege abuse.
+
+IAM originated in physical security, such as ID badge systems, but has evolved into cybersecurity due to the rise of remote and hybrid work environments\citep{StrongDM-IAM}. IAM systems now manage digital identities and enforce security policies for accessing remote services.
+
+\subsection{IAM Components}
+IAM consists of two primary components:
+\begin{itemize}
+	\item \textbf{Identity Management}: Creating, updating, and deleting user credentials.
+	\item \textbf{Access Management}: Defining policies and enforcing user access rights.
+\end{itemize}
+
+\section{IAM Frameworks and Tools}
+
+\subsection{Identity Governance and Administration (IGA)}
+IGA strengthens administrators' ability to manage identities and access privileges. It automates user, role, and access management to ensure compliance\citep{StrongDM-IGAvsPAM,CoreSec-DiffIAMIGAPAM}.
+
+\subsection{Privileged Access Management (PAM)}
+PAM secures sensitive systems by adding security layers around privileged accounts\citep{StrongDM-IGAvsPAM,CoreSec-DiffIAMIGAPAM}. It includes:
+\begin{itemize}
+	\item \textbf{PASM}: Privileged Account and Session Management
+	\item \textbf{PEDM}: Privilege Elevation and Delegation Management
+\end{itemize}
+
+\subsection{Authentication and Access Control Mechanisms}
+\paragraph{Single Sign-On (SSO)}
+SSO enables users to access multiple applications with one authentication process, improving security and usability.
+
+\paragraph{Zero Trust Security}
+Zero Trust assumes that threats exist both inside and outside the network, requiring continuous verification of identity and access.
+
+\paragraph{Principle of Least Privilege (PoLP)}
+PoLP states that users and processes should have only the minimum necessary privileges to perform their tasks\citep{OGDef-PoLP}.
+
+\paragraph{Separation of Duties (SoD)}
+SoD ensures that no single user has excessive control over critical tasks, reducing fraud and error risks.
+
+\paragraph{Just-In-Time (JIT) Access}
+JIT Access provides temporary elevated privileges based on necessity, reducing long-term exposure to high-risk access.
+
+\section{Challenges in IAM Implementation}
+
+\subsection{Technical Debt in IAM}
+Technical debt arises when quick, cost-effective solutions lead to inefficiencies over time\citep{TechinicalDebtOUTsystem}. Common forms of technical debt include:
+\begin{itemize}
+	\item Code debt: Poor coding practices and outdated codebases.
+	\item Design debt: Flawed software architecture or lack of modularity.
+	\item Infrastructure debt: Outdated servers and deployment practices.
+	\item Dependency debt: Reliance on unsupported third-party libraries.
+	\item Compliance debt: Inability to meet evolving security regulations.
+\end{itemize}
+
+\subsection{Compliance and Regulatory Considerations}
+Compliance ensures organizations meet legal and industry standards\citep{2024compliance?}. Companies operating internationally must adhere to relevant regulations.
+
+\subsubsection{European Legislation Related to IAM}
+\paragraph{General Data Protection Regulation (GDPR)}
+GDPR mandates strict control over consumer data, requiring IAM systems to enforce access restrictions\citep{IAM-gdpr:}.
+
+\paragraph{Digital Operational Resilience Act (DORA)}
+DORA applies to financial institutions, requiring risk management and access control strategies to ensure cybersecurity resilience\citep{DoraIAM:}.
+
+\section{Conclusion}
+IAM is essential for managing identities, securing access, and ensuring compliance. This chapter outlined IAM's components, security mechanisms, challenges, and regulatory requirements, laying the foundation for further discussions in subsequent chapters.
