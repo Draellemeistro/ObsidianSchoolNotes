@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "2522be0d0003e49e",
+    "type": "split",
+    "children": [
+      {
+        "id": "27fd2cf2b6512f11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d434953c95c4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML n AI written Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML n AI written Notes"
+            }
+          },
+          {
+            "id": "238957a0805eb0c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machinelearning and AI/Topics and terms/Classification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classification"
+            }
+          },
+          {
+            "id": "3b6f6c8a232e8047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reinforcement Learning"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "788be699a8e2f3cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d70409324c0b7cfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23af2e97d691587",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ca28f4ff46bf6b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"information gain\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e9e89aa858ad8f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "5b922e4187382ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6aad3bc65538420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57466be583711f45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machinelearning and AI/Topics and terms/Classification.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Classification"
+            }
+          },
+          {
+            "id": "43e1a7688f3df61f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML n AI written Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ML n AI written Notes"
+            }
+          },
+          {
+            "id": "18e28f71907dccd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e74fb7964aa32e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML n AI written Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ML n AI written Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "print:Print note": false
+    }
+  },
+  "active": "3b6f6c8a232e8047",
+  "lastOpenFiles": [
+    "Markov Decision Process (MDP).md",
+    "Reinforcement Learning.md",
+    "ML Terms n Shit.md",
+    "ML n AI written Notes.md",
+    "Machinelearning and AI/Topics and terms/Classification.md",
+    "Machinelearning and AI/Topics and terms/Information Gain (IG).md",
+    "Machinelearning and AI/Topics and terms/Gradient Descent.md",
+    "Machinelearning and AI/Topics and terms/Decision tree classifiers.md",
+    "Machinelearning and AI/Topics and terms/overfitting and underfitting.md",
+    "Machinelearning and AI/Topics and terms/Feature Selection.md",
+    "Machinelearning and AI/MachineLearning AI modul 1.md",
+    "Machinelearning and AI/MachineLearning AI Modul 8.md",
+    "Machinelearning and AI/MachineLearning AI Modul 9.md",
+    "Machinelearning and AI/MachineLearning AI Modul 7.md",
+    "Intro ML AI.md",
+    "Machinelearning and AI/Topics and terms/Multilayer Perceptron (MLP).md",
+    "Machinelearning and AI/Topics and terms/Multilayer Artificial Neural Networks.md",
+    "Machinelearning and AI/Topics and terms/DBSCAN.md",
+    "Machinelearning and AI/Topics and terms/Hyperparameter Tuning.md",
+    "Machinelearning and AI/Topics and terms/Adaline.md",
+    "Machinelearning and AI/MachineLearning AI modul 2.md",
+    "Machinelearning and AI/Topics and terms/regularization.md",
+    "Machinelearning and AI/MachineLearning AI Modul 3.md",
+    "Machinelearning and AI/MachineLearning AI Modul 4.md",
+    "Machinelearning and AI/MachineLearning AI Modul 5.md",
+    "Machinelearning and AI/MachineLearning AI Modul 6.md",
+    "image_Reinforcement Learning-1.png",
+    "image_Reinforcement Learning.png",
+    "image files etc/ML images/image_Multilayer Perceptron (MLP).png",
+    "image files etc/ML images/image_Multilayer Perceptron (MLP)-1.png",
+    "Machinelearning and AI/Topics and terms/image_Hyperparameter Tuning-3.png",
+    "Machinelearning and AI/Topics and terms/image_Hyperparameter Tuning-2.png",
+    "Machinelearning and AI/Topics and terms/image_Hyperparameter Tuning-1.png",
+    "Machinelearning and AI/Topics and terms/image_Hyperparameter Tuning.png",
+    "Machinelearning and AI/Topics and terms/image_Feature Extraction.png",
+    "image files etc/ML images/image_Adaline.png",
+    "P5/Diagrammer/desktop.ini",
+    "P5/Diagrammer"
+  ]
+}

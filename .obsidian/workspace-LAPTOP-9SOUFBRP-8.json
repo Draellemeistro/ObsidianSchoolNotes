@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "54527f894596f917",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef08c61ba0e8062e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7874689acc71e2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IoT Internet of Things/IoT day 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IoT day 10"
+            }
+          },
+          {
+            "id": "7425a70880bbeda6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38006515a8a129bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ede9826eba690e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad5659029fb6966e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ea62fb40607902b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "variance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dc4aae4a3df4c706",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "ef71b5109fe77d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbde0d93175dbc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e4f3641293000e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Distributed Systems and Cloud assignment 1.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Distributed Systems and Cloud assignment 1"
+            }
+          },
+          {
+            "id": "83d35529e3d721b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Distributed Systems and Cloud assignment 1.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Distributed Systems and Cloud assignment 1"
+            }
+          },
+          {
+            "id": "6f71c43d342786a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d891285d7062e64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Distributed Systems and Cloud assignment 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Distributed Systems and Cloud assignment 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7874689acc71e2df",
+  "lastOpenFiles": [
+    "P5/P5 knowledge/Start vidensindsamling.md",
+    "Distributed Systems n Cloud Computing/Assignments/assignment 1 Kubernetes/KubernetesAssign1.png",
+    "Distributed Systems n Cloud Computing/Assignments/assignment 1 Kubernetes/assignment 1 Kubernetes.md",
+    "Distributed Systems n Cloud Computing/Assignments/assignment 1 Kubernetes/Getting Started with  AWS Lambda.md",
+    "Distributed Systems n Cloud Computing/Assignments/assignment 1 Kubernetes",
+    "P5/P5 knowledge/Start vidensindsamling-DESKTOP-AND.md",
+    "P5/State MachineLearning.md",
+    "Machinelearning and AI/MachineLearning AI Modul 7.md",
+    "Untitled.md",
+    "Machinelearning and AI/Pasted image 20241028130931.png",
+    "image files etc/MachineLearning AI Modul 5-9.png",
+    "image files etc/MachineLearning AI Modul 5-8.png",
+    "Machinelearning and AI/MachineLearning AI Modul 6.png",
+    "image files etc/MachineLearning AI Modul 5-6.png",
+    "image files etc/MachineLearning AI Modul 5-5.png",
+    "image files etc/MachineLearning AI Modul 5-7.png",
+    "image files etc/MachineLearning AI Modul 5-4.png",
+    "image files etc/MachineLearning AI Modul 5-4.png~RF2304f089.TMP",
+    "image files etc/MachineLearning AI Modul 5-3.png",
+    "image files etc/K-means Clustering-10.png~RF2304ef41.TMP",
+    "image files etc/MachineLearning AI Modul 5-2.png~RF2304eee3.TMP",
+    "Machinelearning and AI/Topics and terms/DBSCAN.md",
+    "Machinelearning and AI/Topics and terms/DBSCAN.md~RF2304ec33.TMP",
+    "image files etc/K-means Clustering-7.png~RF2304ebe5.TMP",
+    "image files etc/K-means Clustering-5.png~RF2304eabc.TMP",
+    "Machinelearning and AI/Topics and terms/clustering.png~RF2304e6c5.TMP",
+    "Machinelearning and AI/Topics and terms/K-means Clustering.md",
+    "Machinelearning and AI/Topics and terms/clustering.md",
+    "Machinelearning and AI/Topics and terms/Sum of Square Error.md",
+    "Machinelearning and AI/Topics and terms/Unsupervised Learning.md",
+    "Machinelearning and AI/MachineLearning AI Modul 5.md",
+    "Machinelearning and AI/ExerciseMaterial/Images and files/modul3/Pasted image 20241007071454.png~RF23035bc0.TMP",
+    "image files etc/ML images/Pasted image 20240930092353.png~RF23035085.TMP",
+    "Machinelearning and AI/MachineLearning AI Modul 6.md",
+    "Machinelearning and AI/Topics and terms/Decision tree classifiers.md",
+    "Distributed Systems n Cloud Computing/Assignments/Getting Started with  AWS Lambda.md",
+    "Distributed Systems n Cloud Computing/Cloud 3 Extra stuff.md",
+    "Distributed Systems n Cloud Computing/Cloud 5 Kubernetes.md",
+    "Intro Cloud Computing.md",
+    "k-nearest neighbor (KNN).md",
+    "Machinelearning and AI/Topics and terms/logistic regression.md",
+    "Machinelearning and AI/Topics and terms/k-nearest neighbor (KNN).md",
+    "Machinelearning and AI/Topics and terms/majority vote.md",
+    "Machinelearning and AI/Topics and terms/Feature Extraction.md",
+    "Machinelearning and AI/ExerciseMaterial/Images and files/modul3/README.md",
+    "Untitled.canvas"
+  ]
+}

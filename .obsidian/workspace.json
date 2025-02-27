@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "2522be0d0003e49e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d263171c825a5e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6449ca794b3a542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overview_files/IoT_all_terms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IoT_all_terms"
+            }
+          },
+          {
+            "id": "b0062d9242d68063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IoT Internet of Things/Exam/Exam Questions/newExamPrep/Neo1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neo1"
+            }
+          },
+          {
+            "id": "82e142508ff01fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5Sem/clutter/asdasd 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "asdasd 2"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "788be699a8e2f3cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d70409324c0b7cfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23af2e97d691587",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ca28f4ff46bf6b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"(grant)-based\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e9e89aa858ad8f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.51103591918945
+  },
+  "right": {
+    "id": "5b922e4187382ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6aad3bc65538420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57466be583711f45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "43e1a7688f3df61f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "18e28f71907dccd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e74fb7964aa32e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/exam_collection/Terms_L6-Intro_DistrSys_Architectures.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Terms_L6-Intro_DistrSys_Architectures"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "print:Print note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d23af2e97d691587",
+  "lastOpenFiles": [
+    "image files etc/img4sem/To be sorted/Pasted image 20240513113054.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240513113045.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240513113021.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240513112932.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240513112859.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240513102519.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240513102430.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240511180057.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240327063727.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240325165022.png",
+    "image files etc/img4sem/To be sorted/Pasted image 20240325165007.png",
+    "image files etc/img4sem/To be sorted/Lecture 2.pdf",
+    "image files etc/img4sem/To be sorted",
+    "image files etc/img4sem/pictures/netværk pics/Wireshark_Intro_v8.0-2.pdf",
+    "image files etc/img4sem/pictures/netværk pics/Lecture 1.pdf",
+    "image files etc/img4sem/pictures/netværk pics/Exam questions examples.pdf",
+    "image files etc/img4sem/pictures/Probability pics",
+    "image files etc/img4sem/pictures/netværk pics",
+    "image files etc/img4sem/pictures",
+    "image files etc/img4sem/Dokumenter og slides/Sikkerhed/slides_Lecture 1.pdf",
+    "image files etc/img4sem/Dokumenter og slides/Sikkerhed",
+    "4Sem/StatsRegression.md",
+    "4Sem/StatsParamEstimation.md",
+    "4Sem/StatshypothesisTesting.md",
+    "4Sem/SpecialProbDistrBernoulliBinomialGeometricPoisson.md",
+    "4Sem/ProbVarExpCov.md",
+    "4Sem/ProbUniformExponentialNormal.md",
+    "4Sem/ProbBasics.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Hacker types/insiders.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Hacker types/Script kiddies.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Hacker types/Nation-state actors.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Hacker types/Cyber criminals.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Hacker types/Gray hats.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Hacker types/Hacktivists.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Malware/Worm.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Malware/Virus.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Malware/Trojan horse.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Malware/Rootkit.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Malware/Spyware.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Malware/Ramsomware.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Malware/Backdoor.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Malware/Botnet.md",
+    "4Sem/Sikkerhed/Begreber/Extra/Malware/Adware.md",
+    "4Sem/Sikkerhed/Exam/Theme 2 Assignment 2.md",
+    "4Sem/Sikkerhed/Exam/Theme 2 Assignment 1.md",
+    "4Sem/Sikkerhed/Moduler (themes)/Theme 5.md"
+  ]
+}

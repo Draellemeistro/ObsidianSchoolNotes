@@ -1,0 +1,32 @@
+{
+  "triggerSymbol": "@",
+  "suggestLinksToNonExistingNotes": true,
+  "relativeTopFolders": [
+    {
+      "VaultPath": "Netværk/",
+      "Title": "Netværk"
+    },
+    {
+      "VaultPath": "Sandsynlighed/",
+      "Title": "Sandsynlighed"
+    },
+    {
+      "VaultPath": "Sikkerhed/",
+      "Title": "Sikkerhed"
+    },
+    {
+      "VaultPath": "P5 knowledge/",
+      "Title": "P5 knowledge"
+    }
+  ],
+  "includeFoldersInSuggestions": false,
+  "folderSuggestionSettings": {
+    "folderSuggestionMode": "always",
+    "folderSuggestionTrigger": "/"
+  },
+  "enableRelativePaths": true,
+  "templateTriggerSymbol": "$",
+  "defaultTemplaterTemplate": "",
+  "quickAddTriggerSymbol": "€",
+  "defaultQuickAddTemplate": ""
+}

@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "54527f894596f917",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef08c61ba0e8062e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7874689acc71e2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P5/P5 device and USB proxy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P5 device and USB proxy"
+            }
+          },
+          {
+            "id": "971661b0eb71d7fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P5/P5 USB defense stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P5 USB defense stuff"
+            }
+          },
+          {
+            "id": "7425a70880bbeda6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P5/P5 USB defense stuff.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P5 USB defense stuff"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38006515a8a129bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ede9826eba690e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad5659029fb6966e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ea62fb40607902b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "variance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dc4aae4a3df4c706",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "ef71b5109fe77d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbde0d93175dbc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e4f3641293000e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Distributed Systems and Cloud assignment 1.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Distributed Systems and Cloud assignment 1"
+            }
+          },
+          {
+            "id": "83d35529e3d721b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Distributed Systems and Cloud assignment 1.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Distributed Systems and Cloud assignment 1"
+            }
+          },
+          {
+            "id": "6f71c43d342786a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d891285d7062e64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Distributed Systems and Cloud assignment 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Distributed Systems and Cloud assignment 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "971661b0eb71d7fb",
+  "lastOpenFiles": [
+    "image files etc/ML images/Pasted image 20241028130931.png",
+    "image files etc/ML images/MachineLearning AI Modul 6.png",
+    "P5/P5 device and USB proxy.md",
+    "P5/P5 knowledge/Start vidensindsamling.md",
+    "P5/P5 knowledge/Start vidensindsamling-DESKTOP-AND.md",
+    "P5/DumitruBHW23_4_Im2.png",
+    "P5/State MachineLearning.md",
+    "P5/Rapport status 08.11.md",
+    "P5/P5 USB defense stuff.md",
+    "image files etc/K-means Clustering-7.png",
+    "image files etc/P5 images/Pasted image 20240927104059.png",
+    "image files etc/P5 images/Pasted image 20241106154124.png",
+    "image files etc/P5 images/Pasted image 20241106155040.png",
+    "image files etc/P5 images/Pasted image 20241106160024.png",
+    "image files etc/P5 images/DumitruBHW23_4_Im2.png",
+    "P5 intro.md",
+    "Untitled.md",
+    "Intro Cloud Computing.md",
+    "Intro IoT.md",
+    "Intro ML AI.md",
+    "Landing page.md",
+    "Mini Projects.md",
+    "P5 TODO.md",
+    "Distributed Systems n Cloud Computing/Assignments/assignment 1 Kubernetes/assignment 1 Kubernetes.md",
+    "image files etc/ML images/MachineLearning AI Modul 5-5.png",
+    "image files etc/ML images/MachineLearning AI Modul 5-7.png",
+    "Distributed Systems n Cloud Computing/Assignments/README.md",
+    "Distributed Systems n Cloud Computing/Assignments/README 1.md",
+    "Untitled 1.md",
+    "tableslet.md",
+    "12313.pdf",
+    "tableslet.pdf",
+    "IoT Internet of Things/IoT day 10.md",
+    "Distributed Systems n Cloud Computing/Assignments/assignment 1 Kubernetes/Hand-in.md",
+    "Distributed Systems n Cloud Computing/Assignments/assignment 1 Kubernetes/Hand-in.md~RF2c87a023.TMP",
+    "Distributed Systems n Cloud Computing/Assignments/assignment 1 Kubernetes/Getting Started with  AWS Lambda.md",
+    "Distributed Systems n Cloud Computing/Assignments/assignment 1 Kubernetes",
+    "Machinelearning and AI/MachineLearning AI Modul 7.md",
+    "image files etc/MachineLearning AI Modul 5-4.png~RF2304f089.TMP",
+    "image files etc/K-means Clustering-10.png~RF2304ef41.TMP",
+    "image files etc/MachineLearning AI Modul 5-2.png~RF2304eee3.TMP",
+    "Machinelearning and AI/Topics and terms/DBSCAN.md",
+    "Machinelearning and AI/Topics and terms/DBSCAN.md~RF2304ec33.TMP",
+    "image files etc/K-means Clustering-7.png~RF2304ebe5.TMP",
+    "image files etc/K-means Clustering-5.png~RF2304eabc.TMP",
+    "Machinelearning and AI/Topics and terms/K-means Clustering.md",
+    "Untitled.canvas"
+  ]
+}

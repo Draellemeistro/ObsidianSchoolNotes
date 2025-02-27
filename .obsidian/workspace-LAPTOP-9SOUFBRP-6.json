@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "54527f894596f917",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef08c61ba0e8062e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2b1dc8ee9f43b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Cloud n Distributed Sys Modul4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c70e145eb0c4636e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k-nearest neighbor (KNN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7874689acc71e2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machinelearning and AI/Topics and terms/Decision tree classifiers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7425a70880bbeda6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38006515a8a129bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ede9826eba690e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad5659029fb6966e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ea62fb40607902b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "variance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc4aae4a3df4c706",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "ef71b5109fe77d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbde0d93175dbc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e4f3641293000e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Cloud n Distributed Sys Modul4.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83d35529e3d721b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Cloud n Distributed Sys Modul4.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f71c43d342786a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d891285d7062e64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Distributed Systems n Cloud Computing/Cloud n Distributed Sys Modul4.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c2b1dc8ee9f43b94",
+  "lastOpenFiles": [
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007072059.png",
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007072054.png",
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007072044.png",
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007072012.png",
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007072000.png",
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007071947.png",
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007071941.png",
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007071938.png",
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007071454.png",
+    "Machinelearning and AI/ExerciseMaterial/Pasted image 20241007071417.png",
+    "P5/P5 knowledge/Start vidensindsamling-DESKTOP-AND.md",
+    "P5/P5 knowledge/Start vidensindsamling.md",
+    "P5/P5 knowledge",
+    "Distributed Systems n Cloud Computing/Pasted image 20241001100920.png",
+    "Distributed Systems n Cloud Computing/skdkf.md",
+    "Distributed Systems n Cloud Computing/Cloud n Distributed Sys Modul4.md",
+    "Distributed Systems n Cloud Computing/Getting Started with  AWS Lambda.md",
+    "Machinelearning and AI/Topics and terms/Decision tree classifiers.md",
+    "k-nearest neighbor (KNN).md",
+    "Machinelearning and AI/ExerciseMaterial/ML AI Modul4 Exercise.md",
+    "Machinelearning and AI/MachineLearning AI Modul 4.md",
+    "logistic regression.md",
+    "k-nearest neighbor (KNN.md",
+    "majority vote.md",
+    "Machinelearning and AI/Topics and terms/Information Gain (IG).md",
+    "Machinelearning and AI/Topics and terms",
+    "Decision tree.md",
+    "Machinelearning and AI/MachineLearning AI Modul 3.md",
+    "Machinelearning and AI/ExerciseMaterial/ML AI Modul2 Exercise.md",
+    "Machinelearning and AI/ExerciseMaterial/ML AI Modul3 Exercise.md",
+    "Machinelearning and AI/ExerciseMaterial/modul3/Mod3Exercise.ipynb.tmp",
+    "Machinelearning and AI/ExerciseMaterial/modul3/Module3Exercise.ipynb.tmp",
+    "Machinelearning and AI/ExerciseMaterial/modul3/Mod3Exercise.ipynb",
+    "Machinelearning and AI/ExerciseMaterial/modul3/module3Exercise.py",
+    "Machinelearning and AI/ExerciseMaterial/modul3/Module3Exercise.ipynb",
+    "Machinelearning and AI/ExerciseMaterial/modul3/iris.names.txt",
+    "Machinelearning and AI/ExerciseMaterial/modul3/ch02.py",
+    "Machinelearning and AI/ExerciseMaterial/modul3/ch02.ipynb",
+    "Machinelearning and AI/ExerciseMaterial/modul3/README.md",
+    "P5/Start vidensindsamling.md",
+    "Machinelearning and AI/Machinelearning AI Intro.md",
+    "Feature Extraction.md",
+    "Machinelearning and AI/MachineLearning AI modul 1.md",
+    "Landing page.md",
+    "P5/P5 intro.md",
+    "Machinelearning AI.md",
+    "Untitled.canvas"
+  ]
+}

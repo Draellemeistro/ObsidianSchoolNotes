@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "54527f894596f917",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a50e61d47e376b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52d2cce96f4aa785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "P4/P4 Antiquated/P4 knowledge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a4c7d2733c7ecff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sikkerhed/Begreber/Symmetric Encryption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a028a8720e81d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Netværk/Moduler/Network M3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38006515a8a129bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ede9826eba690e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad5659029fb6966e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ea62fb40607902b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "variance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc4aae4a3df4c706",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ef71b5109fe77d52",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcbde0d93175dbc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e4f3641293000e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Netværk/Moduler/Network M3.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83d35529e3d721b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Netværk/Moduler/Network M3.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f71c43d342786a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d891285d7062e64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Netværk/Moduler/Network M3.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a028a8720e81d95",
+  "lastOpenFiles": [
+    "P4/gode ting.md",
+    "P4/Information.md",
+    "Netværk/Network alle slides.md",
+    "P4/Til at sætte gang i knahledge.md",
+    "OPDATERET Til at sætte gang i knahledge.pdf",
+    "Til at sætte gang i knahledge.pdf",
+    "P4/Ideen.md",
+    "Sikkerhed/Begreber/Assignment XOR.md",
+    "Netværk/Moduler/Network M3.md",
+    "P4",
+    "Assets/To be sorted/Pasted image 20240227055449.png",
+    "Sikkerhed/Moduler (themes)/Theme 5.md",
+    "Sikkerhed/Moduler (themes)/Theme 1.md",
+    "Sikkerhed/Moduler (themes)/Theme 3.md",
+    "Sikkerhed/Moduler (themes)/Theme 4.md",
+    "asymmetric authentication.md",
+    "symmetric authentication.md",
+    "digital signatures.md",
+    "Wireless security.md",
+    "Sikkerhed/Begreber/encryption.md",
+    "Sikkerhed/Begreber/Password hashing.md",
+    "Sikkerhed/Moduler (themes)/Theme 2.md",
+    "Sikkerhed/Begreber/Assignment Authentication and key agreement.md",
+    "Assets/To be sorted/Pasted image 20240227002448.png",
+    "Assets/To be sorted/Pasted image 20240227002446 1.png",
+    "Assets/To be sorted/Pasted image 20240227002446.png",
+    "Sikkerhed/Begreber/Symmetric Encryption.md",
+    "P4/P4 Antiquated/Begreber og ressourcer/end-to-end encryption.md",
+    "Netværk/Exam/Untitled.md",
+    "P4/P4 Antiquated/Artikler/Noter Making, Breaking Codes introduction to Cryptology.md",
+    "P4/P4 Antiquated/Artikler/noter WHY YOU SHOULDN'T WRITE YOUR OWN ENCRYPTION ALGORITHM.md",
+    "2024-02-22.md",
+    "SLET.md",
+    "Untitled.canvas",
+    "Assets/To be sorted/Pasted image 20240222220041.png",
+    "Assets/To be sorted/Pasted image 20240222215943.png",
+    "Assets/To be sorted/Pasted image 20240222215939.png",
+    "Assets/To be sorted/Pasted image 20240222215518.png",
+    "Assets/To be sorted/Pasted image 20240222214916.png",
+    "Assets/To be sorted/Pasted image 20240222214743.png",
+    "Assets/To be sorted/solutions_Session3_part2.pdf",
+    "Assets/To be sorted/solutions_Session3_part1.pdf",
+    "Assets/To be sorted/problems_Session3_part2.pdf",
+    "Assets/To be sorted/problems_Session3_part1.pdf",
+    "P4/P4 Antiquated/Begreber og ressourcer",
+    "P4/P4 Antiquated/Artikler",
+    "P4/Ideer"
+  ]
+}
