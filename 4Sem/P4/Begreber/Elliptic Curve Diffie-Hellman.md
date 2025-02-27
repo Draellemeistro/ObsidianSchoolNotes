@@ -1,0 +1,1 @@
+se også [[Extended Triple Diffie-Hellman]]

@@ -1,0 +1,5 @@
+- TTL
+- ACKs
+- NAKs
+- stop and wait
+	- sender sends one packet, then waits for receiver response

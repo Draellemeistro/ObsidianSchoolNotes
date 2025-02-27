@@ -1,0 +1,1 @@
+Good metaphor is, the gates to a city ([[Processes]]), or Bridge over a mote or the like. It's the specific link to and from the [[Processes]] on the [[Application Layer]] 

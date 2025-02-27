@@ -1,0 +1,1 @@
+[KILDE](https://github.com/agangster1/Sandsynlighed-og-statestik-formelsamling/blob/main/mm_4Special%20Probability%20Distributions%20for%20Bernoulli%2C%20Binomial%2C%20Geometric%20and%20Poisson.ipynb)

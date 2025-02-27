@@ -1,0 +1,5 @@
+- Postal voting and Internet voting are instances of remote voting, which does not assume trusted supervision of polling places. Remote voting is thus a more general problem, and a harder problem, than supervised voting. Because of the evident interest in remote voting, we believe that remote voting is the right problem to solve. One of our goals was therefore to strike a reasonable compromise between enabling remote voting and guaranteeing strong security properties
+
+
+- Electronic voting systems are often designed for supervised voting, which assumes trusted human supervision of the voters, procedures, hardware, and software in polling places. **Internet voting is increasingly used by groups such as [Debian](https://www.debian.org/vote/), the [ACM](https://www.acm.org/binaries/content/assets/acmelections/acminternetvoting-1.pdf) , and the [IEEE](https://www.ieee.org/about/corporate/election/annual-election-faq.html) Estonia even conducts legally binding national elections using the Internet**
+- 

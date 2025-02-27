@@ -1,0 +1,1 @@
+[KILDE](https://github.com/agangster1/Sandsynlighed-og-statestik-formelsamling/blob/main/mm_5Special%20probability%20distributions%20for%20Uniform%2C%20Exponential%20and%20Normal.ipynb)
